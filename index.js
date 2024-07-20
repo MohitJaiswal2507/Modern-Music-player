@@ -99,13 +99,13 @@ const songs = [
         path:'songs/10-HUMBLE.mp3',
         displayName:'Humble',
         cover:'images/10.jpeg',
-        artist:'Travis Scott',
+        artist:'Kendrik Lamar',
        },    
        {
         path:'songs/11-REDRUM.mp3',
         displayName:'Redrum',
         cover:'images/11.jpeg',
-        artist:'Travis Scott',
+        artist:'21 Savage',
        },    
        {
         path:'songs/12-BUTTERFLY EFFECT.mp3',
